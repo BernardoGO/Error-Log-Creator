@@ -1,0 +1,5 @@
+C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\ErrorLogCreator\ErrorLogCreator\bin\Release\ErrorLogCreator.dll
+C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\ErrorLogCreator\ErrorLogCreator\bin\Release\ErrorLogCreator.pdb
+C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\ErrorLogCreator\ErrorLogCreator\obj\Release\ResolveAssemblyReference.cache
+C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\ErrorLogCreator\ErrorLogCreator\obj\Release\ErrorLogCreator.dll
+C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\ErrorLogCreator\ErrorLogCreator\obj\Release\ErrorLogCreator.pdb
