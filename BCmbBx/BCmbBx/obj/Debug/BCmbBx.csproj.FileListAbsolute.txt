@@ -1,9 +1,0 @@
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\bin\Debug\BCmbBx.dll
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\bin\Debug\BCmbBx.pdb
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\obj\Debug\ResolveAssemblyReference.cache
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\obj\Debug\MyComboBox.baml
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\obj\Debug\MyComboBox.g.cs
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\obj\Debug\BCmbBx_MarkupCompile.cache
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\obj\Debug\BCmbBx.g.resources
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\obj\Debug\BCmbBx.dll
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\BCmbBx\BCmbBx\obj\Debug\BCmbBx.pdb
